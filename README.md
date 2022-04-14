@@ -1,2 +1,4 @@
 # Machine-Learning
-Assignments from cs229 and other machine learning courses
+These are exercises from classs:
+CS229 Machine learning at Stanford University
+Introduction to Data Science at University of Copenhagen
